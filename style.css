@@ -82,7 +82,7 @@ table td{
 
 @media screen and (max-width: 400px) {
 .avatar {
-witdth: 100%;
+width: 100%;
 height: 100%;
 }
 }
